@@ -66,4 +66,4 @@ Utoolity GmbH
 
 Utoolity may update, modify or amend (together, "revise") this statement as our portfolio evolves, including any referenced policies and other documents. We keep a [version history](https://github.com/utoolity/utoolity-trust/blob/main/apps/atlassian/data-security-and-privacy.md) of these changes.
 
-<br>*(Effective as of January 31th 2019)*
+<br>*(Effective as of April 19th 2021)*
