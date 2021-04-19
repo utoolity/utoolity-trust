@@ -24,12 +24,10 @@ Only authorized Utoolity GmbH employees and subcontractors have access to custom
 
 We use the follwing third-party service providers:
 
+* Atlassian (Atlassian Pty Ltd)<br>Purpose: Support Management Services<br>Country: Australia<br>[Atlassian Privacy Policy](https://www.atlassian.com/legal/privacy-policy)
 * AWS (Amazon Web Services, Inc.)<br>Purpose: Hosting and general IT Services<br>Country: USA<br>[AWS Privacy Notice](https://aws.amazon.com/privacy/)
 * Blue Gecko (Blue Gecko Marketing GmbH)<br>Purpose: Marketing, Design, and Customer Success<br>Country: Germany<br>[Blue Gecko Privacy Policy](https://www.bluegecko-marketing.de/en/privacy)
 * GANDI (GANDI SAS)<br>Purpose: Domain and Email Services<br>Country: France<br>[Gandi Website](https://www.gandi.net)
-* Confluence (Atlassian Corporation Plc)<br>Purpose:&nbsp;Support Management Service<br>Country: USA<br>[Confluence Privacy Policy](https://www.atlassian.com/legal/privacy-policy)
-* Jira Service Management (Atlassian Corporation Plc)<br>Purpose: Support Management Service<br>Country: USA<br>[Jira Service Management Privacy Policy](https://www.atlassian.com/legal/privacy-policy)
-* Jira Software (Atlassian Corporation Plc)<br>Purpose: Support Management Service<br>Country: USA<br>[Jira Software Privacy Policy](https://www.atlassian.com/legal/privacy-policy)
 * Twilio (Twilio Inc.)<br>Purpose: Communication Services<br>Country: USA<br>[Twilio Privacy Statement](https://www.twilio.com/legal/privacy)
 
 ## Security Vulnerabilities
