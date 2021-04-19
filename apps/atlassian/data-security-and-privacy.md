@@ -60,10 +60,10 @@ Utoolity GmbH
 <br>35037 Marburg
 <br>Phone: +49 6421 6909580
 <br>Email: <privacy@utoolity.net>
-<br>Internet: [utoolity.net](https://utoolity.net)
+<br>Internet: [utoolity.net](https://utoolity.net/)
 
 ## Revisions to this Statement
 
-Utoolity may update, modify or amend (together, "revise") this statement as our portfolio evolves, including any referenced policies and other documents. We will keep a version history of these changes over time.
+Utoolity may update, modify or amend (together, "revise") this statement as our portfolio evolves, including any referenced policies and other documents. We keep a [version history](https://github.com/utoolity/utoolity-trust/blob/main/apps/atlassian/data-security-and-privacy.md) of these changes.
 
 <br>*(Effective as of January 31th 2019)*

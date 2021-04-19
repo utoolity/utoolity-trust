@@ -1,6 +1,6 @@
 ﻿# Privacy Policy
 
-This data protection disclaimer applies to the Utoolity website [utoolity.net](https://utoolity.net). As our website contains links to third-party websites, please inquire there about how your data is handled.
+This data protection disclaimer applies to the Utoolity website [utoolity.net](https://utoolity.net/). As our website contains links to third-party websites, please inquire there about how your data is handled.
 
 Protecting your privacy is very important to us. The intention of this policy is to provide detailed information about the type, purpose, and extent of the collection and use of personal data by Utoolity GmbH. This privacy policy complies with the guidelines of the DSGVO (GDPR) and the BDSG.
 
@@ -60,10 +60,10 @@ Utoolity GmbH
 <br>35037 Marburg
 <br>Phone: +49 6421 6909580
 <br>Email: <privacy@utoolity.net>
-<br>Internet: [utoolity.net](https://utoolity.net)
+<br>Internet: [utoolity.net](https://utoolity.net/)
 
 ## Revisions to this Policy
 
-Utoolity may update, modify or amend (together, "revise") this policy with regard to current legislation at any time, including any referenced policies and other documents. We will keep a version history of these changes over time.
+Utoolity may update, modify or amend (together, "revise") this policy with regard to current legislation at any time, including any referenced policies and other documents. We keep a [version history](https://github.com/utoolity/utoolity-trust/blob/main/web/utoolity.net/privacy-policy.md) of these changes.
 
 <br>*(Effective as of January 31th 2019)*

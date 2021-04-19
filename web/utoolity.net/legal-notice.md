@@ -7,7 +7,7 @@ Utoolity GmbH
 <br>35037 Marburg
 <br>Phone: +49 6421 6909580
 <br>Email: <contact@utoolity.net>
-<br>Internet: [utoolity.net](https://utoolity.net)
+<br>Internet: [utoolity.net](https://utoolity.net/)
 
 Managing Directors: Henrik Opel, Steffen Opel
 <br>Commercial Register Number: Amtsgericht Marburg HRB 6136
