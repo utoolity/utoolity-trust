@@ -36,11 +36,20 @@ We constantly strive to keep our products and data secure. If you detect/suspect
 
 ## Server Apps
 
-Our Server Apps store all data exclusively within your server instances. They do not collect or transmit any data to us, except for the embedded support widgets, which will do so only if you use them to raise a support request - see section Customer Support Data for details.
+Our Server Apps store all data exclusively within your server instances. They do not collect or transmit any data to us, except for the embedded support widgets, which will do so only if you use them to raise a support request – see section Customer Support Data for details.
 
 ## Cloud Apps
 
-We do not offer any Cloud Apps in the Atlassian Marketplace at this time. Once this changes, we will update this statement with data collection and processing details specific to those apps.
+Our Cloud Apps are developed according to the principle of "Datensparsamkeit" ("data minimization"). We strive to only collect or transmit data that is necessary for the app's operation. If the app requires data storage, our first choice is to use the native Atlassian Cloud product storage, which is subject to the [Atlassian security practices](https://www.atlassian.com/trust/security/security-practices). Our apps will not store any data outside of the Atlassian Cloud product, except if otherwise noted below.
+
+Exceptions for all Cloud Apps:
+
+* Installation metadata – if technically required, metadata provided by the Atlassian Cloud platform will be stored in app specific storage external to the Atlassian Cloud
+* Performance caches – where applicable, data can be cached temporarily for performance reasons
+
+Exceptions for specific Cloud Apps:
+
+* There are no app specific exceptions at this point
 
 ## Contact Us
 
