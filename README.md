@@ -6,4 +6,4 @@ This repository provides version controlled copies of Utoolity policies and othe
 
 These documents are maintained and updated by Utoolity. They are provided for your information and to keep a historic record.
 
-If you have any questions or remarks regarding these documents, please contact our support team at support@utoolity.net.
+If you have any questions or remarks regarding these documents, please contact our [support team](mailto:support@utoolity.net).
