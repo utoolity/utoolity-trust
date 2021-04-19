@@ -24,13 +24,10 @@ Only authorized Utoolity GmbH employees and subcontractors have access to custom
 
 We use the follwing third-party service providers:
 
+* Atlassian (Atlassian Pty Ltd)<br>Purpose: Support Management Services<br>Country: Australia<br>[Atlassian Privacy Policy](https://www.atlassian.com/legal/privacy-policy)
 * AWS (Amazon Web Services, Inc.)<br>Purpose: Hosting and general IT Services<br>Country: USA<br>[AWS Privacy Notice](https://aws.amazon.com/privacy/)
 * Blue Gecko (Blue Gecko Marketing GmbH)<br>Purpose: Marketing, Design, and Customer Success<br>Country: Germany<br>[Blue Gecko Privacy Policy](https://www.bluegecko-marketing.de/en/privacy)
 * GANDI (GANDI SAS)<br>Purpose: Domain and Email Services<br>Country: France<br>[Gandi Website](https://www.gandi.net)
-* Confluence (Atlassian Corporation Plc)<br>Purpose:&nbsp;Support Management Service<br>Country: USA<br>[Confluence Privacy Policy](https://www.atlassian.com/legal/privacy-policy)
-* Jira Service Management (Atlassian Corporation Plc)<br>Purpose: Support Management Service<br>Country: USA<br>[Jira Service Management Privacy Policy](https://www.atlassian.com/legal/privacy-policy)
-* Jira Software (Atlassian Corporation Plc)<br>Purpose: Support Management Service<br>Country: USA<br>[Jira Software Privacy Policy](https://www.atlassian.com/legal/privacy-policy)
-* PagerDuty (PagerDuty, Inc.)<br>Purpose: Incident Management<br>Country: USA<br>[PagerDuty Privacy Policy](https://www.pagerduty.com/privacy-policy/)
 * Twilio (Twilio Inc.)<br>Purpose: Communication Services<br>Country: USA<br>[Twilio Privacy Statement](https://www.twilio.com/legal/privacy)
 
 ## Security Vulnerabilities
@@ -39,11 +36,20 @@ We constantly strive to keep our products and data secure. If you detect/suspect
 
 ## Server Apps
 
-Our Server Apps store all data exclusively within your server instances. They do not collect or transmit any data to us, except for the embedded support widgets, which will do so only if you use them to raise a support request - see section Customer Support Data for details.
+Our Server Apps store all data exclusively within your server instances. They do not collect or transmit any data to us, except for the embedded support widgets, which will do so only if you use them to raise a support request – see section Customer Support Data for details.
 
 ## Cloud Apps
 
-We do not offer any Cloud Apps in the Atlassian Marketplace at this time. Once this changes, we will update this statement with data collection and processing details specific to those apps.
+Our Cloud Apps are developed according to the principle of "Datensparsamkeit" ("data minimization"). We strive to only collect or transmit data that is necessary for the app's operation. If the app requires data storage, our first choice is to use the native Atlassian Cloud product storage, which is subject to the [Atlassian security practices](https://www.atlassian.com/trust/security/security-practices). Our apps will not store any data outside of the Atlassian Cloud product, except if otherwise noted below.
+
+Exceptions for all Cloud Apps:
+
+* Installation metadata – if technically required, metadata provided by the Atlassian Cloud platform will be stored in app specific storage external to the Atlassian Cloud
+* Performance caches – where applicable, data can be cached temporarily for performance reasons
+
+Exceptions for specific Cloud Apps:
+
+* There are no app specific exceptions at this point
 
 ## Contact Us
 
@@ -54,10 +60,10 @@ Utoolity GmbH
 <br>35037 Marburg
 <br>Phone: +49 6421 6909580
 <br>Email: <privacy@utoolity.net>
-<br>Internet: [utoolity.net](https://utoolity.net)
+<br>Internet: [utoolity.net](https://utoolity.net/)
 
 ## Revisions to this Statement
 
-Utoolity may update, modify or amend (together, "revise") this statement as our portfolio evolves, including any referenced policies and other documents. We will keep a version history of these changes over time.
+Utoolity may update, modify or amend (together, "revise") this statement as our portfolio evolves, including any referenced policies and other documents. We keep a [version history](https://github.com/utoolity/utoolity-trust/blob/main/apps/atlassian/data-security-and-privacy.md) of these changes.
 
-<br>*(Effective as of January 31th 2019)*
+<br>*(Effective as of April 19th 2021)*

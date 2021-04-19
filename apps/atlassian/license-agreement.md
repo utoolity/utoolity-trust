@@ -50,7 +50,7 @@ Utoolity may list your organization as a customer on our websites and/or promoti
 
 ## 8. Revisions to this Agreement
 
-Utoolity may update, modify or amend (together, "revise") this agreement as our portfolio evolves, including any referenced policies and other documents. We will keep a version history of these changes over time.
+Utoolity may update, modify or amend (together, "revise") this agreement as our portfolio evolves, including any referenced policies and other documents. We keep a [version history](https://github.com/utoolity/utoolity-trust/blob/main/apps/atlassian/license-agreement.md) of these changes.
 
 If a revision meaningfully reduces your rights, Utoolity will use reasonable efforts to notify you by, for example, sending an email to the billing or technical contact you designated in your order, posting on our website, or on the app listing in the Atlassian Marketplace.
 
