@@ -30,7 +30,6 @@ We use the follwing third-party service providers:
 * Confluence (Atlassian Corporation Plc)<br>Purpose:&nbsp;Support Management Service<br>Country: USA<br>[Confluence Privacy Policy](https://www.atlassian.com/legal/privacy-policy)
 * Jira Service Management (Atlassian Corporation Plc)<br>Purpose: Support Management Service<br>Country: USA<br>[Jira Service Management Privacy Policy](https://www.atlassian.com/legal/privacy-policy)
 * Jira Software (Atlassian Corporation Plc)<br>Purpose: Support Management Service<br>Country: USA<br>[Jira Software Privacy Policy](https://www.atlassian.com/legal/privacy-policy)
-* PagerDuty (PagerDuty, Inc.)<br>Purpose: Incident Management<br>Country: USA<br>[PagerDuty Privacy Policy](https://www.pagerduty.com/privacy-policy/)
 * Twilio (Twilio Inc.)<br>Purpose: Communication Services<br>Country: USA<br>[Twilio Privacy Statement](https://www.twilio.com/legal/privacy)
 
 ## Security Vulnerabilities
