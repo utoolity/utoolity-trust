@@ -12,7 +12,7 @@ We do not have any access to your customer data beyond the information provided 
 
 ## Customer Support Data
 
-As an active or potential customer, you may choose to register with our support systems (Jira Software, Jira Service Management, Confluence) in order to submit support requests or access non-public information. We will also register you in those instances if you choose to contact our support team per email. With such registration, we will store your email address, name (if given), and support details in our support systems running in the Atlassian Cloud. Should the support details contain personal data, we recommend anonymizing the data, if possible. If you wish for your personal information to be removed from the Utoolity support systems, please contact our [privacy team](mailto://privacy@utoolity.net).
+As an active or potential customer, you may choose to register with our support systems (Jira Software, Jira Service Management, Confluence) in order to submit support requests or access non-public information. We will also register you in those instances if you choose to contact our support team per email. With such registration, we will store your email address, name (if given), and support details in our support systems running in the Atlassian Cloud. Should the support details contain personal data, we recommend anonymizing the data, if possible. If you wish for your personal information to be removed from the Utoolity support systems, please [contact our privacy team](mailto:privacy@utoolity.net).
 
 All data provided to us in the context of a support request will only be used to analyze and solve your requests. Without your explicit consent or a legal basis, your personal data will not be shared with third parties.
 
@@ -32,15 +32,23 @@ We use the follwing third-party service providers:
 
 ## Security Vulnerabilities
 
-We constantly strive to keep our products and data secure. If you detect/suspect any security vulnerability, contact our [security team](mailto://security@utoolity.net), and we will work on a solution to the issue immediately.
+We constantly strive to keep our products and data secure. If you detect/suspect any security vulnerability, [contact our security team](mailto:security@utoolity.net), and we will work on a solution for the issue immediately.
 
-## Server Apps
+### Security Bug Fix Policy
 
-Our Server Apps store all data exclusively within your server instances. They do not collect or transmit any data to us, except for the embedded support widgets, which will do so only if you use them to raise a support request – see section Customer Support Data for details.
+We follow the [Security Bug Fix Policy For Marketplace Apps](https://developer.atlassian.com/platform/marketplace/security-bugfix-policy/), which details the remediation due dates based on a mapping of vulnerability [CVSS scores](https://en.wikipedia.org/wiki/Common_Vulnerability_Scoring_System) to severity and timeframe to resolution.
+
+### Security Incident Management
+
+We follow the [Security Incident Management Guidelines For Marketplace Partners](https://developer.atlassian.com/platform/marketplace/app-security-incident-management-guidelines/), which details the process to investigate, communicate, contain, remediate, and prevent security incidents.
+
+### Vulnerability Disclosure Program
+
+The [Marketplace Vulnerability Disclosure Program](https://developer.atlassian.com/platform/marketplace/vdp/) provides customers and security researchers the opportunity to report vulnerabilities to Atlassian, who will then triage and report applicable vulnerabilities back to us to remediate.
 
 ## Cloud Apps
 
-Our Cloud Apps are developed according to the principle of "Datensparsamkeit" ("data minimization"). We strive to only collect or transmit data that is necessary for the app's operation. If the app requires data storage, our first choice is to use the native Atlassian Cloud product storage, which is subject to the [Atlassian security practices](https://www.atlassian.com/trust/security/security-practices). Our apps will not store any data outside of the Atlassian Cloud product, except if otherwise noted below.
+Our apps for [Atlassian Cloud products](https://www.atlassian.com/legal/privacy-policy/product-family) are developed according to the principle of "Datensparsamkeit" ("data minimization"). We strive to only collect or transmit data that is necessary for the app's operation. If the app requires data storage, our first choice is to use the native Atlassian Cloud product storage, which is subject to the [Atlassian security practices](https://www.atlassian.com/trust/security/security-practices). Our apps will not store any data outside of the Atlassian Cloud product, except if otherwise noted below.
 
 Exceptions for all Cloud Apps:
 
@@ -50,6 +58,10 @@ Exceptions for all Cloud Apps:
 Exceptions for specific Cloud Apps:
 
 * There are no app specific exceptions at this point
+
+## Data Center and Server Apps
+
+Our apps for [Atlassian Server and Data Center products](https://www.atlassian.com/legal/privacy-policy/product-family) store all data exclusively within your customer-managed systems. They do not collect or transmit any data to us, except for the embedded support widgets, which will do so only if you use them to raise a support request – see section *Customer Support Data* for details.
 
 ## Contact Us
 
@@ -66,4 +78,4 @@ Utoolity GmbH
 
 Utoolity may update, modify or amend (together, "revise") this statement as our portfolio evolves, including any referenced policies and other documents. We keep a [version history](https://github.com/utoolity/utoolity-trust/blob/main/apps/atlassian/data-security-and-privacy.md) of these changes.
 
-<br>*(Effective as of April 19th 2021)*
+<br>*(Effective as of March 11th 2022)*

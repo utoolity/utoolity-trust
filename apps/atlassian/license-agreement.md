@@ -46,7 +46,7 @@ Utoolity collects and processes your data in accordance with our [Data Security 
 
 ## 7. Publicity Rights
 
-Utoolity may list your organization as a customer on our websites and/or promotional materials, including your organization's name and/or logo. You can request that Utoolity stops doing so at any time by submitting an email to our [privacy team](mailto://privacy@utoolity.net). Requests may take 30 days to process.
+Utoolity may list your organization as a customer on our websites and/or promotional materials, including your organization's name and/or logo. You can request that Utoolity stops doing so at any time by submitting an email to our [privacy team](mailto:privacy@utoolity.net). Requests may take 30 days to process.
 
 ## 8. Revisions to this Agreement
 
