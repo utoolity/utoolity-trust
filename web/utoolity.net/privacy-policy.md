@@ -49,16 +49,16 @@ If you do not want Twitter to associate your visit to this website with your Twi
 * You have the right to ask for erasure of individual data (§ 17 GDPR).
 * You have the right to withdraw or modify a previously given consent for your data to be processed at any time and without giving a reason (§ 21 GDPR).
 
-You can send your respective requests via email to <privacy@utoolity.net> or by postal mail to Utoolity GmbH, Hirschberg 7, 35037 Marburg, Germany. No costs arise, except for shipping and transmission costs, if any.
+You can send your respective requests via email to <privacy@utoolity.net> or by postal mail to Utoolity GmbH, Mittelgasse 5, 35457 Lollar, Germany. No costs arise, except for shipping and transmission costs, if any.
 
 ## Contact Us
 
 Your information is controlled by Utoolity GmbH. If you have questions or concerns about how your information is handled, please direct your inquiry to:
 
 Utoolity GmbH
-<br>Hirschberg 7
-<br>35037 Marburg
-<br>Phone: +49 6421 6909580
+<br>Mittelgasse 5
+<br>35457 Lollar
+<br>Phone: +49 6406 7750741
 <br>Email: <privacy@utoolity.net>
 <br>Internet: [utoolity.net](https://utoolity.net/)
 
@@ -66,4 +66,4 @@ Utoolity GmbH
 
 Utoolity may update, modify or amend (together, "revise") this policy with regard to current legislation at any time, including any referenced policies and other documents. We keep a [version history](https://github.com/utoolity/utoolity-trust/blob/main/web/utoolity.net/privacy-policy.md) of these changes.
 
-<br>*(Effective as of January 31th 2019)*
+<br>*(Effective as of August 2nd 2023)*

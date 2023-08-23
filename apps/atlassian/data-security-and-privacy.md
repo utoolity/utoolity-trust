@@ -68,9 +68,9 @@ Our apps for [Atlassian Server and Data Center products](https://www.atlassian.c
 Your information is controlled by Utoolity GmbH. If you have questions or concerns about how your data is handled, please direct your inquiry to:
 
 Utoolity GmbH
-<br>Hirschberg 7
-<br>35037 Marburg
-<br>Phone: +49 6421 6909580
+<br>Mittelgasse 5
+<br>35457 Lollar
+<br>Phone: +49 6406 7750741
 <br>Email: <privacy@utoolity.net>
 <br>Internet: [utoolity.net](https://utoolity.net/)
 
@@ -78,4 +78,4 @@ Utoolity GmbH
 
 Utoolity may update, modify or amend (together, "revise") this statement as our portfolio evolves, including any referenced policies and other documents. We keep a [version history](https://github.com/utoolity/utoolity-trust/blob/main/apps/atlassian/data-security-and-privacy.md) of these changes.
 
-<br>*(Effective as of March 11th 2022)*
+<br>*(Effective as of August 2nd 2023)*

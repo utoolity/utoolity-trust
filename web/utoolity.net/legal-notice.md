@@ -3,9 +3,9 @@
 Find below information as required by §5 TMG:
 
 Utoolity GmbH
-<br>Hirschberg 7
-<br>35037 Marburg
-<br>Phone: +49 6421 6909580
+<br>Mittelgasse 5
+<br>35457 Lollar
+<br>Phone: +49 6406 7750741
 <br>Email: <contact@utoolity.net>
 <br>Internet: [utoolity.net](https://utoolity.net/)
 
