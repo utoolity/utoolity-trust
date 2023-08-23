@@ -4,7 +4,7 @@ Utoolity strives to maintain the following support service level objectives (SLO
 
 ## Response Times
 
-Expect a response to **support requests** via the in product *Provide App Feedback* links and the [Utoolity Apps for Atlassian](https://utoolity.atlassian.net/browse/UAA) Jira project within 1 business day (24 hours). Please don't hesitate to [contact us](https://go.utoolity.net/contact) via other channels if you shouldn't receive a timely response!
+Expect a response to **support requests** via the in product *Provide app feedback* links and the [Utoolity Customer Support](https://go.utoolity.net/apps/support) Jira project within 1 business day (24 hours). Please don't hesitate to [contact us](https://go.utoolity.net/contact) via other channels if you shouldn't receive a timely response!
 
 ## Business Hours
 
@@ -16,10 +16,10 @@ The following support channels are monitored in order of priority:
 
 | Channel | Link |
 |---|---|
-| Atlassian Community | [Find answers and ask questions](https://utoolity.atlassian.net/wiki/spaces/UAA/pages/1238663235/Utoolity+Apps+for+Atlassian+Community+Directory) |
-| Issue tracker | [Request support and raise issues](https://utoolity.atlassian.net/browse/UAA) |
+| Utoolity Customer Support | [Request support and raise issues](https://go.utoolity.net/apps/support) |
+| Atlassian Community | [Find answers and ask questions](https://go.utoolity.net/apps/community) |
 | Email | [Send us an email to support@utoolity.net](mailto:support@utoolity.net)  |
-| Phone | [	Call us via phone at +49.64216909580](tel:+4964216909580) |
+| Phone | [Call us via phone at +49.64067750741](tel:+4964067750741) |
 
 <br>
 
@@ -27,4 +27,4 @@ The following support channels are monitored in order of priority:
 
 Utoolity may update, modify or amend (together, "revise") this agreement as our portfolio evolves, including any referenced policies and other documents. We keep a [version history](https://github.com/utoolity/utoolity-trust/blob/main/apps/atlassian/support-sla.md) of these changes.
 
-<br>*(Effective as of March 11th 2022)*
+<br>*(Effective as of August 2nd 2023)*
